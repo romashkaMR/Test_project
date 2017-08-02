@@ -1,0 +1,18 @@
+using System;
+using System.Collections.Generic;
+using System.Text;
+
+namespace TestCoding
+{
+
+    class Program
+    {
+       static void Main(string[] args)
+        {
+            Console.WriteLine("Just trivial hello world )))");
+            Console.WriteLine("Press any key for exit...");
+            Console.ReadKey();
+        }
+    }
+
+}
